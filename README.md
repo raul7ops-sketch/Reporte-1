@@ -43,4 +43,4 @@
 ```Soy Mecanico industrial en el area de mantenimiento (preventivo, correctivo y predicitvo), ademas de que apoyo al area de mejora continua para una mayor eficiencia en procesos industriales.```
 ## Fotografia 
 
-![](https://github.com/raul7ops-sketch/Reporte-1/blob/main/REPORTE%201%20DIPLOMADO.jpg?raw=true)
+![]([https://github.com/raul7ops-sketch/Reporte-1/blob/main/REPORTE%201%20DIPLOMADO.jpg?raw=true](https://github.com/raul7ops-sketch/Reporte-1/blob/main/Fotografia%20de%20reporte%201.jpg?raw=true))
