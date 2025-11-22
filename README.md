@@ -1,5 +1,5 @@
 # REPOTE 1 BIBLIOOGAFIA
-#INDICE
+# INDICE
 1. Nombre
 2. Edad
 3. Lugar de nacimiento
@@ -11,12 +11,14 @@
 9. Trabajo
 10. Fotografia
 
-##Nombre
+## Nombre
 ### Raul Aguilar Lagunas
 ## Edad 
 ### 25 años
 ## Lugar de nacimiento
 ### Cuernavaca Morelos
+## Carrera
+### Ingenieria Mecanica
 ## Pasa tiempos
 - Acampar
 - Leer
